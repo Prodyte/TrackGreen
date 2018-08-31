@@ -107,10 +107,10 @@ a:hover {
 .content {
 	width: 899px;
 	float: left;
-	padding: 19px 20px 80px 20px;
+	padding: 19px 20px 100px 20px;
 }
 .left-out {
-	background-image: url(../images/body-rept.jpg);
+	
 	background-repeat: repeat-y;
 	background-position: right top;
 	width: 570px;
@@ -127,7 +127,7 @@ a:hover {
 	background-image: url(../images/body-bottom.jpg);
 	background-repeat: no-repeat;
 	background-position: right bottom;
-	width: 520px;
+	width: 1000px;
 	float: left;
 	padding: 0px 40px 0px 10px;
 }
