@@ -11,9 +11,8 @@ Recognising the area with greenery can help us in several ways like:-
   * Tensor flow
   * OpenCV
   * Pre-trained model
-
-  *Flutter,HTML,CSS,DJANGO
-  *Invision for  - Prototype 
+  * Flutter,HTML,CSS,DJANGO
+  * Invision for  - Prototype 
 
 We are actually taking reference from several articles from google and other search engines.
 we are also taking some theory data which tells about the average Carbon sink by a the defined area of trees.
