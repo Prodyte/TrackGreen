@@ -1,8 +1,7 @@
 #map{
-
+  background-image: url("https://cdn.ndtv.com/tech/images/gadgets/google_maps_newdelhi_screenshot.jpg");
   width:400px;
   height:400px;
-  background-color: yellow;
 }
 
 
@@ -137,6 +136,9 @@ html{
 
 a {
   color: #535bd4;
+  width: 20;
+  height: 5;
+  text-align: center;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
